@@ -7,10 +7,10 @@ Welcome to the Vulcan Cyber Python SDK repository! This SDK provides a convenien
 * Error handling and automatic retries 
 
 # Examples
-Check out the examples directory in this repository for more detailed usage examples. These examples cover various use cases and provide a deeper understanding of how to utilize the Vulcan Cyber SDK in your projects.
+Check out examples.md in this repository for more detailed usage examples. These examples cover various use cases and provide a deeper understanding of how to utilize the Vulcan Cyber SDK in your projects.
 
 # Contributing
-Contributions to the Vulcan Cyber Python SDK are welcome and encouraged! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the contribution guidelines when submitting your changes. Please see CONTRIBUTING.md for details on how to contribute and our code of conduct.
+Contributions to the Vulcan Cyber Python SDK are welcome and encouraged! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the contribution guidelines when submitting your changes.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
